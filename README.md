@@ -106,7 +106,8 @@ int main() {
 }
 ```
 ### OUTPUT:
-![Screenshot 2024-10-16 153309](https://github.com/user-attachments/assets/06d90efe-3c02-4813-a824-636ce6ac4112)
+
+![image](https://github.com/user-attachments/assets/caa33463-82a5-4e0f-a07b-8d574c247a55)
 
 ## RESULT:
 The RSA algorithm is implemented successfully.
